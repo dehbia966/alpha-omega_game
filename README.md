@@ -1,1 +1,1 @@
-# alpha-omega_game
+# alpha_omega_game
